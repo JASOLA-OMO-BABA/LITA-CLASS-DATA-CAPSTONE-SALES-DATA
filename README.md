@@ -15,3 +15,19 @@ The primary Source Of Data used in this analysis is the "Capstone Sales Data.csv
 - Github for Portfolio Building.
 
 ### These tools all help organizations and individuals as well in making informed and accurate decisions.
+
+### Data Cleaning and Preparations.
+
+In the initial phase of the Data Cleaning and Preparations, we perform the following action;
+- Data loading and Inspection
+- Handling missing variables
+- Data Cleaning and Formatting
+
+### Exploratory Data Analysis
+EDA involves the exploring of the data to answer some questions about the data such as;
+- What is the average sales per product?
+- What is the number of sales transactions per region?
+- What is the highest selling product?
+- Who are the top 5 customers based on how much they purchase?
+- What products did not make sales at all over a range of years? i.e Last Quarter.
+  
