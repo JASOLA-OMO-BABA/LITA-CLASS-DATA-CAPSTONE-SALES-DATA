@@ -65,4 +65,8 @@ https://github.com/JASOLA-OMO-BABA/LITA-CLASS-DATA-CAPSTONE-SALES-DATA/blob/main
 
 https://github.com/JASOLA-OMO-BABA/LITA-CLASS-DATA-CAPSTONE-SALES-DATA/blob/main/Screenshot%20(9).png
 
+https://github.com/JASOLA-OMO-BABA/LITA-CLASS-DATA-CAPSTONE-SALES-DATA/blob/main/Screenshot%20(10).png
+---
+### Visualizing with PowerBI
+
 
