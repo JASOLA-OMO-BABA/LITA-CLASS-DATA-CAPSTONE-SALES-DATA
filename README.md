@@ -1,12 +1,17 @@
 # LITA-CLASS-DATA-CAPSTONE-SALES-DATA
 
 ### Project Title: Sales Performance Of A Retail Store Analysis.
-
-### Project Overview
+- Project Overview
+- Data Sources.
+- Tools used in the Analysis Of a Sales Performance Of a Retail Store.
+- Data Cleaning and Preparations.
+- Exploratory Data Analysis.
+- Data Analysis.
+- Data Viualization.
 ---
 This Data Analysis project stands to gain insights and trends about the sales performance of A Retail Store over a range of 2 years. The main goal of doing this analysis is that after receiving the data, we are able to have enough information to make a reasonable and accurate decision which then helps to take the readers and decision makers on a ride around our data and knowing the best of the best performance from our data.
 
-### Data Sources
+### Data Sources.
 ---
 The primary Source Of Data used in this analysis is the "Capstone Sales Data.csv" which was gotten from an open source online such as Kaggle, FRED or any other data repository site and it is free. This can be used for practice and sharpening of skills learnt. I mean, we learn everyday.
 
@@ -28,7 +33,7 @@ In the initial phase of the Data Cleaning and Preparations, we perform the follo
 - Handling missing variables
 - Data Cleaning and Formatting
 
-### Exploratory Data Analysis
+### Exploratory Data Analysis.
 ---
 EDA involves the exploring of the data to answer some questions about the data such as;
 - What is the average sales per product?
@@ -37,7 +42,7 @@ EDA involves the exploring of the data to answer some questions about the data s
 - Who are the top 5 customers based on how much they purchase?
 - What products did not make sales at all over a range of years? i.e Last Quarter.
   
-### Data Analysis
+### Data Analysis.
 ---
 This is where we include some basic lines of code or queries or even some of the DAX Expressions used during the analysis;
 
@@ -47,5 +52,5 @@ WHERE CONDITION = TRUE
 ```
 
 ---
-### Data Visualization
+### Data Visualization.
 
