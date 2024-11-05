@@ -63,4 +63,6 @@ https://github.com/JASOLA-OMO-BABA/LITA-CLASS-DATA-CAPSTONE-SALES-DATA/blob/main
 
 ![image](https://github.com/user-attachments/assets/189f0314-17a1-49ea-831f-9fbdfa95c9f9)
 
+https://github.com/JASOLA-OMO-BABA/LITA-CLASS-DATA-CAPSTONE-SALES-DATA/blob/main/Screenshot%20(9).png
+
 
