@@ -58,3 +58,9 @@ WHERE CONDITION = TRUE
 https://github.com/JASOLA-OMO-BABA/LITA-CLASS-DATA-CAPSTONE-SALES-DATA/blob/main/LITA%20CAPSTONE%20PROJECT%20EXCEL.xlsx
 
 https://github.com/JASOLA-OMO-BABA/LITA-CLASS-DATA-CAPSTONE-SALES-DATA/blob/main/LITA%20CAPSTONE%20PROJECT%20SALES%20DATA.sql
+
+![image](https://github.com/user-attachments/assets/00d9b855-e274-4b50-87fc-db9c983b0dda)
+
+![image](https://github.com/user-attachments/assets/189f0314-17a1-49ea-831f-9fbdfa95c9f9)
+
+
